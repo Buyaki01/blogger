@@ -1,2 +1,2 @@
-module ArticlesHelper # rubocop:todo Style/Documentation
+module ArticlesHelper
 end
