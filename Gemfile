@@ -62,3 +62,5 @@ end
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 gem 'rubocop', '~>0.81.0'
+
+gem "paperclip"
