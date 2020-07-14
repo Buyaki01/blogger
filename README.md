@@ -21,7 +21,7 @@ PROJECT: BLOG APP](https://www.theodinproject.com/courses/ruby-on-rails/lessons/
 [Live Demo](https://blogger-app-48377.herokuapp.com/)
 
 ### Run instructions 
--  You can clone the GitHub repo and type the following commands in the terminal to run the bot locally 
+-  You can clone the GitHub repo and type the following commands in the terminal to run the server locally 
     ```
     bundle install
     rake db:migrate
